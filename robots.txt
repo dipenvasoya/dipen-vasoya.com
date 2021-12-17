@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+Allow: /dipen-vasoya.com
+Allow: /dipen-vasoya.com/index.php
+Allow: /dipen-vasoya.com/about-me.php
+Allow: /dipen-vasoya.com/projects.php
+Allow: /dipen-vasoya.com/services.php
+Allow: /dipen-vasoya.com/supporter.php
+Allow: /dipen-vasoya.com/contact.php
+
+Sitemap: http://www.dipen-vasoya.com/sitemap.xml
