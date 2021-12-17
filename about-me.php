@@ -52,14 +52,14 @@
                         <h3>Welcome to <span class="color-text">My Profile</span></h3>
                         <h3>It's my pleasure to introduce about myself.</h3>
                         <p>Hello, I'm <strong class="color-text">Dipen Vasoya </strong>from Jamnagar, Gujarat. 
-                        <br>I'm Web Developer and Social Media Marketer with 2+ years of experience, as Website Developer, Graphic Designer and Social Media Marketer.
-                        <br>I've an experience of working with more than 15 companies.  
-                        <br>With more than 2 years experience in Technical Field, I have deep understanding of the technologies and the processes required for realising a successful web project from Start to till completion.</p>
+                        <br>I'm Web Developer and Social Media Marketer with 4+ years of experience, as Website Developer, Graphic Designer and Social Media Marketer.
+                        <br>I've an experience of working with more than 20 companies.  
+                        <br>With more than 4 years experience in Technical Field, I have deep understanding of the technologies and the processes required for realising a successful web project from Start to till completion.</p>
                         <br>
                         <h3>What are my values?</h3>
                         <p>When developing a web project, I focus on understanding the business goals and delivering a final product that will really work for the client.</p>
                         <br>
-                        <p><b>Phone:</b> <a href="tel:9824260617" > +91 98242 60617 </a>
+                        <p><b>Phone:</b> <a href="tel:+919824260617" > +91 98242 60617 </a>
                             <br><b>Business Mail:</b> <a href="tomail:info@dipen-vasoya.com" > info@dipen-vasoya.com</a></p>
                         <a href="MyResume.jpg" class="button js-scroll">Download my CV</a>
                     </div>
