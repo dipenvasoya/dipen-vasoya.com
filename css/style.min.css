@@ -42,7 +42,7 @@ p {
     line-height: 1.6;
 }
 .section {
-    padding: 100px 0;
+    padding: 36px 0;
     position: relative;
 }
 @media (max-width: 768px) {
@@ -122,6 +122,7 @@ p {
 @media (max-width: 768px) {
     .title-heading .para-desc {
         font-size: 16px !important;
+        text-align: justify;
     }
 }
 .section-title {
@@ -138,6 +139,7 @@ p {
 }
 .para-desc {
     max-width: 600px;
+    text-align: justify;
 }
 .mt-100 {
     margin-top: 100px;
@@ -6095,6 +6097,7 @@ body.gym-scss {
 }
 .gym-scss .title-heading .para-desc {
     font-size: 18px;
+    text-align: justify;
 }
 .gym-scss .section-title {
     position: relative;
